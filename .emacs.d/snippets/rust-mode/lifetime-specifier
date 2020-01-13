@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: lifetime-specifier
+# key: ls
+# --
+<'$1>$2

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Table
+# key: table
+# --
+<table>
+    <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    </tbody>
+</table>

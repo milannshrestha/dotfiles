@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Empty Println
+# key: ple
+# --
+println!();

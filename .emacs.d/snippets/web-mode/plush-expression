@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Plush Expression
+# key: ple 
+# --
+<%= $1 %>$2

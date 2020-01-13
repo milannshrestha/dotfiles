@@ -1,0 +1,61 @@
+# Basic Settings
+set preview false
+# set previewer ~/.scripts/lf_preview
+set color256 true
+set drawbox true
+set icons true
+set ignorecase true
+
+# Custom Functions
+cmd open ${{
+    case $(file --mime-type "$f" -bL) in
+        text/*|application/json) $EDITOR "$fx";;
+        video/*|application/pdf) xdg-open "$f" & disown;;
+        audio/mpeg) mpc add "$f"; mpc play;;
+        *) for f in "$fx"; do xdg-open "$f"> /dev/null 2> /dev/null & done;;
+    esac
+}}
+
+cmd mkfile ${{
+    printf "File Name: "
+    read ans
+    touch $ans
+}}
+
+cmd sudomkfile ${{
+    printf "File Name: "
+    read ans
+    sudo touch $ans
+}}
+
+cmd mkdir ${{
+    printf "Directory Name: "
+    read ans
+    mkdir $ans
+}}
+
+cmd sudomkdir ${{
+    printf "Directory Name: "
+    read ans
+    sudo mkdir $ans
+}}
+
+cmd setwallpaper ${{
+    feh --bg-fill "$f"
+}}
+
+# Remove some default bindings
+map m
+
+# File Openers
+map ee $$EDITOR "$f"
+map es $sudo $EDITOR "$f"
+
+# Basic Functions
+map xx delete
+map <enter> open
+map mf mkfile
+map smf sudomkfile
+map md mkdir
+map smd sudomkdir
+map bg setwallpaper

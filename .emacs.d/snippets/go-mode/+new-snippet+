@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: handleFuncSig 
+# key: wr
+# --
+w http.ResponseWriter, r *http.Request

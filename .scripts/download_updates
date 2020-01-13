@@ -1,0 +1,6 @@
+#!/usr/bin/sh
+
+sudo pacman -Syuw --noconfirm;
+notify-send "Downloading updates..."
+
+polybar-msg hook pacupdates 1

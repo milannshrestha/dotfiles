@@ -1,0 +1,12 @@
+{
+  "marketplace": {
+    "%2Fhome%2Fjec": [
+      "texla",
+      "markdown",
+      "rust-analyz"
+    ],
+    "%2Fhome%2Fjec%2Fcode%2Fweb%2Fharmonyhhc": [
+      "emmet"
+    ]
+  }
+}

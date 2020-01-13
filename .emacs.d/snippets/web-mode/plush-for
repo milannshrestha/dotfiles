@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Plush for
+# key: plfor
+# --
+ <%= for ($1) in $2 { %>
+     $3
+ <% } %>$4

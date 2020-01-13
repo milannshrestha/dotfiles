@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Plush If
+# key: plif
+# --
+<%= if ($1) { %>
+    $2
+<% } %>$3

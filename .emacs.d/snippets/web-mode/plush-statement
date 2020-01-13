@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Push Statement
+# key: pls
+# --
+<% $1 %>$2

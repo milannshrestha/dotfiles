@@ -1,0 +1,40 @@
+ alias kill3000="fuser -k 3000/tcp"
+ alias reloadzsh="source ~/.zshrc"
+ alias wacom_touch="xsetwacom --set $WACOM_TOUCH touch"
+ alias gh="cd ~"
+
+####################################################################
+# Youtube-DL
+####################################################################
+ alias yta="youtube-dl -f bestaudio --add-metadata"
+
+####################################################################
+# Go
+####################################################################
+ alias gomodoff="GO111MODULE=off"
+ alias gomodon="GO111MODULE=on"
+
+
+####################################################################
+# Wifi
+####################################################################
+ alias wifi_conns="nmcli -a device wifi list"
+ alias connect_ig="nmcli -a device wifi connect Intergoogle"
+ alias connect_5g1="nmcli -a device wifi connect Intergoole-5G-1"
+ alias connect_5g2="nmcli -a device wifi connect Intergoogle-5G-2"
+
+####################################################################
+# Git
+####################################################################
+alias ga="git add"
+alias gaa="git add -A"
+alias gcm="git commit -m"
+alias gcam="git commit -am"
+alias gp="git push"
+alias gpom="git push origin master"
+alias gpl="git pull"
+
+####################################################################
+# Neovim
+####################################################################
+ alias vim="nvim"

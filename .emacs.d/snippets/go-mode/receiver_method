@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name:receiver method 
+# key: rmet
+#
+# --
+
+func ($1 *$2) $3($4) $5 {
+        $6
+}
+$7

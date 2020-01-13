@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: println_debug
+# key: pld
+# --
+println!("{:?}", $1);$2

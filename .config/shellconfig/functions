@@ -1,0 +1,54 @@
+ # Function: mpfree
+ # Iterates over all the files in the root directory (and subdirectories)
+ # and converts audio files with '.webm' extension to mp3 files
+ function mpfree {
+     find . -type f -iname "*.webm" -exec bash -c 'FILE="$1"; ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "${FILE%.webm}.mp3";' _ '{}' \;
+     rm *.webm;
+ }
+
+# Function: refresh
+# sources the .zshrc config and .Xresources config for urxvt
+ function refresh {
+     source ~/.zshrc;
+     xrdb -merge ~/.Xresources;
+ }
+
+ #
+ # Function: wacom_touch
+ # Helper function to turn Wacom touch control on or off
+ function wacom_touch "$command" {
+	xsetwacom --set $WACOM_TOUCH touch $command;
+ }
+
+ # Function: to_mp3
+ # Converts single audio file to mp3
+ function to_mp3 {
+     FILE="$1"
+     ffmpeg -i "${FILE}" -vn -ab 128k -ar 44100 -y "${FILE%.webm}.mp3"
+ }
+
+ # Function: brightness
+ # Adjusts screen brightness on HP Laptop
+ function brightness {
+     xrandr --output eDP-1 --brightness $1
+ }
+
+# Function: lol_name
+# Displays name with figlet and lolcat
+function lol_name {
+    figlet -f univers "joncarr" | lolcat
+    echo ""
+    echo ""
+}
+
+# Funtion: lc
+# Changes directory when exiting lf
+lc () {
+    tmp="$(mktemp)"
+    lf -last-dir-path="$tmp" "$@"
+    if [ -f "$tmp" ]; then
+        dir="$(cat "$tmp")"
+        rm -f "$tmp"
+        [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
+    fi
+}
