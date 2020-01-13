@@ -1,0 +1,16 @@
+# Ignore everything
+*
+.zsh_history
+
+# except...
+
+!.gitignore
+!.zshrc
+!.asoundrc*
+!.config/
+!.zprofile
+!.emacs.d/
+!.scripts/
+!.xinitrc
+!.Xauthority
+
