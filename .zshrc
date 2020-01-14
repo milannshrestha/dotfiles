@@ -12,7 +12,7 @@ export READER="zathura"
 export WACOM_TOUCH=$(xsetwacom list devices | awk '/touch/ {print $8}')
 
 # Add personal scripts to path
-export PATH=$HOME/.scripts:$PATH
+export PATH=$HOME/.scripts/:$PATH
 
 # Ensure default specifications are adhered
 export XDG_CONFIG_HOME=$HOME/.config

@@ -33,6 +33,9 @@ alias gcam="git commit -am"
 alias gp="git push"
 alias gpom="git push origin master"
 alias gpl="git pull"
+alias gs="git status"
+alias grmv="git remote -v"
+alias grm="git remote"
 
 ####################################################################
 # Neovim
