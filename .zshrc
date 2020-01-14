@@ -38,7 +38,7 @@ export RLS_ROOT=$HOME/.rustup/toolchains/$RUST_TOOLCHAIN/bin
 export PATH=$HOME/.cargo/bin:$PATH
 
 # Java
- export JAVA_HOME=/usr/lib/jvm/java-8-jdk
+ export JAVA_HOME=/usr/lib/jvm/default
  export PATH=$JAVA_HOME/bin:$PATH
 
  # Path to your oh-my-zsh installation.

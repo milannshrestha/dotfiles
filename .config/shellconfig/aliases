@@ -2,6 +2,7 @@
  alias reloadzsh="source ~/.zshrc"
  alias wacom_touch="xsetwacom --set $WACOM_TOUCH touch"
  alias gh="cd ~"
+ alias ddg="ddgr"
 
 ####################################################################
 # Youtube-DL
