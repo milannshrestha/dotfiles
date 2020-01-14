@@ -1,3 +1,6 @@
 #!/usr/bin/sh
 
-pacman -Qu | wc -l && notify-send "$(pacman -Qu | wc -l) updates are ready to be installed."
+if [ $(pacman -Qu | wc -l ) > 0 ]; then
+    pacman -Qu | wc -l;
+    notify-send "$(pacman -Qu | wc -l) updates are ready to be installed."
+fi
