@@ -31,7 +31,7 @@ red = #f50a4d
 [bar/example]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 100%
-height = 23
+height = 26
 ;offset-x = 1%
 ; offset-y = 0%
 radius = 0
@@ -54,9 +54,7 @@ module-margin = 2
 font-0 = fixed:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
-font-3 = FontAwesome5Duotone:pixelsize=8;2
-font-4 = FontAwesome5Pro:pixelsize=8;2
-font-5 = FontAwesome5Brands:pixelsize=8;2
+font-3 = FontAwesome5Pro:pixelsize=10;2
 
 modules-left = bspwm xwindow
 modules-center = mpd
@@ -130,7 +128,7 @@ label-empty-padding = 2
 [module/pacupdates]
 type = custom/script
 exec = display-updates
-format-prefix = " "
+format-prefix = " "
 format-underline = ${colors.red}
 interval = 3600
 
@@ -180,7 +178,7 @@ label = %percentage:2%%
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = " "
+format-prefix = "  "
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = ${colors.red}
 label = %percentage_used%%
@@ -342,9 +340,9 @@ label = %temperature-c%
 label-warn = %temperature-c%
 label-warn-foreground = ${colors.secondary}
 
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
 ramp-foreground = ${colors.foreground-alt}
 
 [module/powermenu]
