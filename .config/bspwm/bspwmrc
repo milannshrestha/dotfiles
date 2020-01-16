@@ -8,6 +8,9 @@ picom -b
 # start dunst notifications
 dunst &
 
+# Source Xresources (if urxvt terminal is used)
+# xrdb ~/.Xresources
+
 # set wallpaper at start
 ./.fehbg
 

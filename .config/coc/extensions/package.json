@@ -5,7 +5,7 @@
     "coc-json": ">=1.2.4",
     "coc-markdownlint": ">=1.0.2",
     "coc-marketplace": ">=1.7.0",
-    "coc-rust-analyzer": ">=0.2.2",
+    "coc-rust-analyzer": ">=0.2.3",
     "coc-snippets": ">=2.1.17",
     "coc-texlab": ">=1.9.9",
     "coc-tsserver": ">=1.4.9",
