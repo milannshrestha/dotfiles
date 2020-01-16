@@ -56,8 +56,7 @@ Plug 'w0rp/ale'
 "--------------------------------------------
 " Language Server Protocol
 " -------------------------------------------
-Plug 'neoclide/coc.nvim', {'do': 'npm install --frozen-lockfile'}
-
+Plug 'neoclide/coc.nvim', {'tag': '*', 'do': { -> coc#util#install()}}
 "--------------------------------------------
 " Go
 " -------------------------------------------
