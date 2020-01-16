@@ -127,7 +127,7 @@ label-empty-padding = 2
 
 [module/pacupdates]
 type = custom/script
-exec = pacman -Qe | wc -l
+exec = pacman -Qu | wc -l
 format-prefix = " "
 format-underline = ${colors.red}
 interval = 120
