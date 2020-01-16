@@ -35,6 +35,7 @@ bspc rule -a Gimp desktop='^8' state=floating follow=on
 bspc rule -a Firefox desktop='^1'
 bspc rule -a Emacs desktop='^2' state=tiled follow=on focus=on
 bspc rule -a mplayer2 state=floating
+bspc rule -a zathura state=tiled
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 

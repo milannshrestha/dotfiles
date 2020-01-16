@@ -43,6 +43,7 @@ Plug 'alvan/vim-closetag'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-fugitive'
 Plug 'bronson/vim-trailing-whitespace'
+Plug 'lervag/vimtex'
 Plug 'kovetskiy/sxhkd-vim'
 Plug 'prettier/vim-prettier', {
   \ 'do': 'npm install',
@@ -290,3 +291,9 @@ let g:rustfmt_fail_silently = 0
 
 let g:user_emmet_mode='a'
 let g:user_emmet_leader_key=','
+
+"===========================================================================
+" Vimtex
+"===========================================================================
+let g:vimtex_view_method = 'mupdf'
+
