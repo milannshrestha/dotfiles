@@ -10,8 +10,7 @@ set ignorecase true
 cmd open ${{
     case $(file --mime-type "$f" -bL) in
         text/*|application/json) $EDITOR "$fx";;
-        application/pdf) $READER "$f";;
-        application/epub+zip) termpub "$f";;
+        application/pdf|application/epub+zip) $READER "$f";;
         audio/mpeg) mpc add "$f" && mpc play;;
         *) for f in "$fx"; do xdg-open "$f"> /dev/null 2> /dev/null & done;;
     esac

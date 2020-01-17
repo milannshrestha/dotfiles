@@ -7,7 +7,7 @@ export BROWSER="firefox"
 export WM="bspwm"
 export COLORTERM="truecolor"
 export PAGER="less"
-export READER="zathura"
+export READER="mupdf"
 
 export WACOM_TOUCH=$(xsetwacom list devices | awk '/touch/ {print $8}')
 

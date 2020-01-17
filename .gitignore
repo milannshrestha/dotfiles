@@ -1,6 +1,7 @@
 # Ignore everything
 *
 .zsh_history
+.config/REAPER/
 
 # except...
 
