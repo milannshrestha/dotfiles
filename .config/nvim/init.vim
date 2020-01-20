@@ -1,5 +1,6 @@
 inoremap jj <esc>
 let mapleader = " "
+let maplocalleader = ","
 set number relativenumber
 let base16colorspace=256
 
