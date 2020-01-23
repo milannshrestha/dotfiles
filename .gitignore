@@ -2,6 +2,7 @@
 *
 .zsh_history
 .config/REAPER/
+.config/shellconfig/bitwarden
 
 # except...
 
