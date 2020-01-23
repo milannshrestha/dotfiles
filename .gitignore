@@ -3,6 +3,8 @@
 .zsh_history
 .config/REAPER/
 .config/shellconfig/bitwarden
+.config/mpd/log
+.config/mpd/state
 
 # except...
 
