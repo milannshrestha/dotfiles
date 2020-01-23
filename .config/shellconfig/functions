@@ -52,3 +52,9 @@ lc () {
         [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
     fi
 }
+
+# Funtion: ytpl (YouTube Play List)
+# Uses youtube-dl to download a YouTube playlist to mp3
+function ytpl () {
+    youtube-dl --yes-playlist -f bestaudio --add-metadata -x --audio-format mp3 $1;
+}

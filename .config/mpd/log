@@ -735,3 +735,311 @@ Jan 15 22:44 : client: [0] closed
 Jan 15 22:44 : client: [1] opened from 127.0.0.1:50242
 Jan 15 22:45 : client: [1] closed
 Jan 15 22:45 : client: [2] opened from 127.0.0.1:50244
+Jan 21 17:41 : client: [3] opened from 127.0.0.1:44892
+Jan 21 17:41 : exception: Not playing
+Jan 21 17:41 : client: [3] closed
+Jan 21 17:41 : client: [4] opened from 127.0.0.1:44894
+Jan 21 17:41 : exception: Not playing
+Jan 21 17:41 : client: [4] closed
+Jan 21 17:41 : client: [5] opened from 127.0.0.1:44896
+Jan 21 17:41 : exception: Not playing
+Jan 21 17:41 : client: [5] closed
+Jan 21 17:41 : client: [6] opened from 127.0.0.1:44898
+Jan 21 17:41 : exception: Not playing
+Jan 21 17:41 : client: [6] closed
+Jan 21 17:41 : client: [7] opened from 127.0.0.1:44900
+Jan 21 17:41 : exception: Not playing
+Jan 21 17:41 : client: [7] closed
+Jan 21 17:48 : client: [2] closed
+Jan 21 17:48 : client: [8] opened from 127.0.0.1:45062
+Jan 21 18:46 : client: [8] closed
+Jan 21 18:47 : client: [9] opened from 127.0.0.1:45718
+Jan 21 19:00 : client: [0] opened from 127.0.0.1:34128
+Jan 21 19:05 : client: [0] closed
+Jan 21 19:05 : client: [1] opened from 127.0.0.1:34136
+Jan 21 19:27 : client: [0] opened from 127.0.0.1:60026
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Blue World (LYRICS)-v1mLjDFX3o8.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Good News (LYRICS)-j5IuoToWbik.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Good News (LYRICS)-j5IuoToWbik.webm
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Complicated (LYRICS)-MChmgopbnhs.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Circles (LYRICS)-heG6aM-tmnA.mp3
+Jan 22 00:43 : update: removing Mac Miller - Cirlces/Mac Miller - Good News (LYRICS)-j5IuoToWbik.webm
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Woods (LYRICS)-Xj5UR0fCBAk.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - I Can See (LYRICS)-xttRH2AFUdc.mp3
+Jan 22 00:43 : update: updating Mac Miller - Cirlces/Mac Miller - Good News (LYRICS)-j5IuoToWbik.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Woods (LYRICS)-Xj5UR0fCBAk.webm
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Everybody (LYRICS)-jrNj97X0S7E.mp3
+Jan 22 00:43 : update: removing Mac Miller - Cirlces/Mac Miller - Woods (LYRICS)-Xj5UR0fCBAk.webm
+Jan 22 00:43 : update: updating Mac Miller - Cirlces/Mac Miller - Woods (LYRICS)-Xj5UR0fCBAk.mp3
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Hand Me Downs (LYRICS)-kICtY6ze-EY.webm
+Jan 22 00:43 : update: added Mac Miller - Cirlces/Mac Miller - Hand Me Downs (LYRICS)-kICtY6ze-EY.mp3
+Jan 22 00:43 : update: removing Mac Miller - Cirlces/Mac Miller - Hand Me Downs (LYRICS)-kICtY6ze-EY.webm
+Jan 22 00:43 : update: updating Mac Miller - Cirlces/Mac Miller - Hand Me Downs (LYRICS)-kICtY6ze-EY.mp3
+Jan 22 00:44 : update: added Mac Miller - Cirlces/Mac Miller - Surf (LYRICS)-RVdCZSCymJM.webm
+Jan 22 00:44 : update: added Mac Miller - Cirlces/Mac Miller - That's On Me (LYRICS)-8B0dSY002ko.mp3
+Jan 22 00:44 : update: added Mac Miller - Cirlces/Mac Miller - Surf (LYRICS)-RVdCZSCymJM.mp3
+Jan 22 00:44 : update: added Mac Miller - Cirlces/Mac Miller - Hands (LYRICS)-0gjCaK_imZg.mp3
+Jan 22 00:44 : update: removing Mac Miller - Cirlces/Mac Miller - Surf (LYRICS)-RVdCZSCymJM.webm
+Jan 22 00:44 : update: added Mac Miller - Cirlces/Mac Miller - Once A Day (LYRICS)-3Y4lM_NkL1g.mp3
+Jan 22 00:44 : update: updating Mac Miller - Cirlces/Mac Miller - Surf (LYRICS)-RVdCZSCymJM.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Brown Sugar (Remastered)-M9hcAA93N8c.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Wild Horses-OPfG2aU1MpI.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Sway (Remastered)-KIlVba5jtQE.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Wild Horses-OPfG2aU1MpI.webm
+Jan 22 00:51 : update: removing Sticky Fingers - Rolling Stones/Wild Horses-OPfG2aU1MpI.webm
+Jan 22 00:51 : update: updating Sticky Fingers - Rolling Stones/Wild Horses-OPfG2aU1MpI.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Can't You Hear Me Knocking (Remastered)-Gz5mI6tqm_Q.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Can't You Hear Me Knocking (Remastered)-Gz5mI6tqm_Q.webm
+Jan 22 00:51 : update: removing Sticky Fingers - Rolling Stones/Can't You Hear Me Knocking (Remastered)-Gz5mI6tqm_Q.webm
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/You Gotta Move (Remastered)-RfibGc-VvAU.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Sister Morphine (Remastered)--TP9AvRIJsE.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Sister Morphine (Remastered)--TP9AvRIJsE.webm
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/THE ROLLING STONES _ 7. I Got The Blues - (Sticky Fingers) - (1971)-lR5DbMQgIOQ.mp3
+Jan 22 00:51 : update: updating Sticky Fingers - Rolling Stones/Can't You Hear Me Knocking (Remastered)-Gz5mI6tqm_Q.mp3
+Jan 22 00:51 : update: added Sticky Fingers - Rolling Stones/Bitch (Remastered)-To7q0cn0Fk4.mp3
+Jan 22 00:51 : update: removing Sticky Fingers - Rolling Stones/Sister Morphine (Remastered)--TP9AvRIJsE.webm
+Jan 22 00:51 : update: updating Sticky Fingers - Rolling Stones/Sister Morphine (Remastered)--TP9AvRIJsE.mp3
+Jan 22 00:55 : update: added /SOUR GIRL (STONE TEMPLE PILOTS)-dhCwLD6-UdI.mp3
+Jan 22 04:03 : client: [0] closed
+Jan 22 04:03 : client: [1] opened from 127.0.0.1:35844
+Jan 22 04:13 : client: [1] closed
+Jan 22 04:13 : client: [2] opened from 127.0.0.1:36030
+Jan 22 04:21 : client: [2] closed
+Jan 22 04:22 : client: [3] opened from 127.0.0.1:36218
+Jan 22 04:30 : client: [3] closed
+Jan 22 04:30 : client: [4] opened from 127.0.0.1:36322
+Jan 22 04:39 : client: [4] closed
+Jan 22 04:39 : client: [5] opened from 127.0.0.1:36472
+Jan 22 04:41 : client: [5] closed
+Jan 22 04:42 : client: [6] opened from 127.0.0.1:36476
+Jan 22 04:47 : client: [6] closed
+Jan 22 04:47 : client: [7] opened from 127.0.0.1:36602
+Jan 22 04:57 : client: [7] closed
+Jan 22 04:57 : client: [8] opened from 127.0.0.1:36744
+Jan 22 05:01 : client: [8] closed
+Jan 22 05:02 : client: [9] opened from 127.0.0.1:36840
+Jan 22 05:09 : client: [9] closed
+Jan 22 05:09 : client: [10] opened from 127.0.0.1:36844
+Jan 22 05:18 : client: [10] closed
+Jan 22 05:19 : client: [11] opened from 127.0.0.1:37194
+Jan 22 05:23 : client: [11] closed
+Jan 22 05:23 : client: [12] opened from 127.0.0.1:37208
+Jan 22 08:19 : client: [12] closed
+Jan 22 08:19 : client: [13] opened from 127.0.0.1:38568
+Jan 22 09:15 : client: [13] closed
+Jan 22 09:16 : client: [14] opened from 127.0.0.1:39184
+Jan 22 09:39 : client: [14] closed
+Jan 22 09:39 : client: [15] opened from 127.0.0.1:39784
+Jan 22 10:10 : client: [15] closed
+Jan 22 10:10 : client: [16] opened from 127.0.0.1:40752
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A)-NriGTu58y6w.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.temp.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Premonition (Intro)-vXW58fFNWNg.mp3
+Jan 22 21:50 : update: removing Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.temp.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Alfred (Interlude)-3TWFaM8KgQg.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - In Too Deep-prhRy2jodCU.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD)-GVoEx9-aAt4.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.webm
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 21:50 : update: added Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran)-z-tkAPRMbqs.mp3
+Jan 22 21:51 : update: removing Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.webm
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.webm
+Jan 22 21:51 : update: updating Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 21:51 : update: removing Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.webm
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.m4a
+Jan 22 21:51 : update: updating Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 21:51 : update: removing Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.m4a
+Jan 22 21:51 : update: updating Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad (Intro)-eyo8wBun1a0.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad-K7kpzRHClKA.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Never Love Again-q67YUg2_Vz8.mp3
+Jan 22 21:51 : update: added Eminem - Music to be Murdered By/Eminem - Marsh-o52H8SRLJYM.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Alfred (Interlude)-3TWFaM8KgQg.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A)-NriGTu58y6w.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran)-z-tkAPRMbqs.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Stepdad-K7kpzRHClKA.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Stepdad (Intro)-eyo8wBun1a0.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Premonition (Intro)-vXW58fFNWNg.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Never Love Again-q67YUg2_Vz8.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Marsh-o52H8SRLJYM.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - In Too Deep-prhRy2jodCU.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD)-GVoEx9-aAt4.mp3
+Jan 22 21:53 : update: removing Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Alfred (Interlude)-3TWFaM8KgQg.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - In Too Deep-prhRy2jodCU.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A)-NriGTu58y6w.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Premonition (Intro)-vXW58fFNWNg.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD)-GVoEx9-aAt4.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.webm
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran)-z-tkAPRMbqs.mp3
+Jan 22 21:54 : update: removing Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.webm
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.webm
+Jan 22 21:54 : update: updating Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 21:54 : update: removing Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.webm
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.m4a
+Jan 22 21:54 : update: updating Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 21:54 : update: added Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 21:55 : update: removing Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.m4a
+Jan 22 21:55 : update: updating Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad (Intro)-eyo8wBun1a0.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Farewell-NXmJEvNW5HA.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad-K7kpzRHClKA.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Never Love Again-q67YUg2_Vz8.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Farewell-NXmJEvNW5HA.webm
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Marsh-o52H8SRLJYM.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Little Engine-CqNzcrx0QQo.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Lock It Up (ft. Anderson Paak)-Oyjt6WyR_54.mp3
+Jan 22 21:55 : update: removing Eminem - Music to be Murdered By/Eminem - Farewell-NXmJEvNW5HA.webm
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'')-OTLgKQ6pghc.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'')-OTLgKQ6pghc.webm
+Jan 22 21:55 : update: updating Eminem - Music to be Murdered By/Eminem - Farewell-NXmJEvNW5HA.mp3
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - No Regrets (ft. Don Toliver)-YescbnJ4aWQ.mp3
+Jan 22 21:55 : update: updating Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'')-OTLgKQ6pghc.mp3
+Jan 22 21:55 : update: removing Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'')-OTLgKQ6pghc.webm
+Jan 22 21:55 : update: added Eminem - Music to be Murdered By/Eminem - Alfred (Outro)-NYbXsd21xPc.mp3
+Jan 22 22:02 : client: [17] opened from 127.0.0.1:46478
+Jan 22 22:02 : exception: Not playing
+Jan 22 22:02 : client: [17] closed
+Jan 22 23:34 : update: removing Eminem - Music to be Murdered By/Eminem - Alfred (Interlude)-3TWFaM8KgQg.mp3
+Jan 22 23:34 : update: added Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3
+Jan 22 23:34 : update: removing Eminem - Music to be Murdered By/Eminem - Alfred (Outro)-NYbXsd21xPc.mp3
+Jan 22 23:34 : update: added Eminem - Music to be Murdered By/Eminem - Alfred (Outro).mp3
+Jan 22 23:34 : update: removing Eminem - Music to be Murdered By/Eminem - Darkness-7AT3Zz1Glik.mp3
+Jan 22 23:34 : update: added Eminem - Music to be Murdered By/Eminem - Darkness.mp3
+Jan 22 23:35 : update: removing Eminem - Music to be Murdered By/Eminem - Farewell-NXmJEvNW5HA.mp3
+Jan 22 23:35 : update: added Eminem - Music to be Murdered By/Eminem - Farewell.mp3
+Jan 22 23:35 : update: removing Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD)-GVoEx9-aAt4.mp3
+Jan 22 23:35 : update: added Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD).mp3
+Jan 22 23:36 : update: removing Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'')-OTLgKQ6pghc.mp3
+Jan 22 23:36 : update: added Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'').mp3
+Jan 22 23:36 : update: removing Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold)-1K2zjWmTLYY.mp3
+Jan 22 23:36 : update: added Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold).mp3
+Jan 22 23:36 : update: removing Eminem - Music to be Murdered By/Eminem - In Too Deep-prhRy2jodCU.mp3
+Jan 22 23:36 : update: added Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3
+Jan 22 23:36 : update: removing Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey)-KGg8U8XN8EM.mp3
+Jan 22 23:36 : update: added Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey).mp3
+Jan 22 23:36 : update: removing Eminem - Music to be Murdered By/Eminem - Little Engine-CqNzcrx0QQo.mp3
+Jan 22 23:36 : update: added Eminem - Music to be Murdered By/Eminem - Little Engine.mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Lock It Up (ft. Anderson Paak)-Oyjt6WyR_54.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Lock It Up (ft. Anderson Paak).mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Marsh-o52H8SRLJYM.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Marsh.mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Never Love Again-q67YUg2_Vz8.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Never Love Again.mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - No Regrets (ft. Don Toliver)-YescbnJ4aWQ.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - No Regrets (ft. Don Toliver).mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Premonition (Intro)-vXW58fFNWNg.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Premonition (Intro).mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Stepdad (Intro)-eyo8wBun1a0.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad (Intro).mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Stepdad-K7kpzRHClKA.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Stepdad.mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran)-z-tkAPRMbqs.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran).mp3
+Jan 22 23:37 : update: removing Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A)-NriGTu58y6w.mp3
+Jan 22 23:37 : update: added Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A).mp3
+Jan 22 23:38 : update: removing Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'')-cFktyJq8Tp4.mp3
+Jan 22 23:38 : update: added Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'').mp3
+Jan 22 23:38 : client: [18] opened from 127.0.0.1:47126
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Stepdad.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Stepdad (Intro).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Darkness.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Little Engine.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'').mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Alfred (Outro).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Never Love Again.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Lock It Up (ft. Anderson Paak).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'').mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Farewell.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Premonition (Intro).mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - Marsh.mp3
+Jan 22 23:43 : update: updating Eminem - Music to be Murdered By/Eminem - No Regrets (ft. Don Toliver).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Stepdad.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Stepdad (Intro).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Darkness.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Little Engine.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - I Will (ft. Joell Ortiz, KXNG Crooked & Royce da 5'9'').mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Alfred (Outro).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Never Love Again.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Lock It Up (ft. Anderson Paak).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'').mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Farewell.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Premonition (Intro).mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - Marsh.mp3
+Jan 22 23:50 : update: updating Eminem - Music to be Murdered By/Eminem - No Regrets (ft. Don Toliver).mp3
+Jan 23 00:37 : config: option 'device' on line 21 was not recognized
+Jan 23 00:37 : jack_output: Cannot connect to server socket err = No such file or directory
+Jan 23 00:37 : jack_output: Cannot connect to server request channel
+Jan 23 00:37 : jack_output: jack server is not running or cannot be started
+Jan 23 00:37 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:37 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:37 : exception: Failed to enable output "Jack Device" (jack)
+Jan 23 00:37 : exception: nested: Failed to connect to JACK server, status=17
+Jan 23 00:37 : client: [0] opened from 127.0.0.1:35846
+Jan 23 00:37 : client: [1] opened from 127.0.0.1:35850
+Jan 23 00:37 : client: [1] closed
+Jan 23 00:37 : client: [2] opened from 127.0.0.1:35852
+Jan 23 00:37 : jack_output: Cannot connect to server socket err = No such file or directory
+Jan 23 00:37 : jack_output: Cannot connect to server request channel
+Jan 23 00:37 : jack_output: jack server is not running or cannot be started
+Jan 23 00:37 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:37 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:37 : exception: Failed to enable output "Jack Device" (jack)
+Jan 23 00:37 : exception: nested: Failed to connect to JACK server, status=17
+Jan 23 00:38 : client: [3] opened from 127.0.0.1:35854
+Jan 23 00:38 : jack_output: Cannot connect to server socket err = No such file or directory
+Jan 23 00:38 : jack_output: Cannot connect to server request channel
+Jan 23 00:38 : jack_output: jack server is not running or cannot be started
+Jan 23 00:38 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:38 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:38 : exception: Failed to enable output "Jack Device" (jack)
+Jan 23 00:38 : exception: nested: Failed to connect to JACK server, status=17
+Jan 23 00:38 : client: [3] closed
+Jan 23 00:38 : player: played "Eminem - Music to be Murdered By/Eminem - Stepdad (Intro).mp3"
+Jan 23 00:38 : jack_output: Cannot connect to server socket err = No such file or directory
+Jan 23 00:38 : jack_output: Cannot connect to server request channel
+Jan 23 00:38 : jack_output: jack server is not running or cannot be started
+Jan 23 00:38 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:38 : jack_output: JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+Jan 23 00:38 : exception: Failed to enable output "Jack Device" (jack)
+Jan 23 00:38 : exception: nested: Failed to connect to JACK server, status=17
+Jan 23 00:39 : client: [4] opened from 127.0.0.1:35856
+Jan 23 00:39 : player: played "Eminem - Music to be Murdered By/Eminem - Stepdad.mp3"
+Jan 23 00:39 : client: [4] closed
+Jan 23 00:40 : client: [5] opened from 127.0.0.1:35858
+Jan 23 00:40 : client: [5] closed
+Jan 23 00:43 : player: played "Eminem - Music to be Murdered By/Eminem - Premonition (Intro).mp3"
+Jan 23 00:44 : client: [2] closed
+Jan 23 00:46 : player: played "Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A).mp3"
+Jan 23 00:50 : player: played "Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold).mp3"
+Jan 23 00:51 : player: played "Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3"
+Jan 23 00:54 : player: played "Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran).mp3"
+Jan 23 00:57 : player: played "Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3"
+Jan 23 01:00 : player: played "Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD).mp3"
+Jan 23 01:06 : player: played "Eminem - Music to be Murdered By/Eminem - Darkness.mp3"
+Jan 23 01:11 : player: played "Eminem - Music to be Murdered By/Eminem - Leaving Heaven (ft. Skylar Grey).mp3"
+Jan 23 01:15 : player: played "Eminem - Music to be Murdered By/Eminem - Yah Yah (ft. Black Thought, ​dEnAun, Q Tip & Royce da 5'9'').mp3"
+Jan 23 01:16 : player: played "Eminem - Music to be Murdered By/Eminem - Stepdad (Intro).mp3"

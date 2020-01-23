@@ -134,7 +134,7 @@ autocmd BufWritePre *.go :call CocAction('runCommand', 'editor.action.organizeIm
 "===========================================================================
 " Theme Support
 "===========================================================================
-set guifont=Hack
+set guifont=OperatorMonoLight
 set background=dark
 colorscheme gruvbox
 
