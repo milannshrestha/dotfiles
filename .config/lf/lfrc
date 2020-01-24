@@ -1,6 +1,6 @@
 # Basic Settings
 set preview false
-# set previewer ~/.scripts/lf_preview
+set previewer ~/.scripts/lf_previewer
 set color256 true
 set drawbox true
 set icons true

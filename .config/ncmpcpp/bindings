@@ -10,16 +10,16 @@
 #def_key "up"
 #  scroll_up
 #
-#def_key "shift-up"
-#  select_item
-#  scroll_up
+def_key "shift-up"
+ select_item
+ scroll_up
 #
 #def_key "down"
 #  scroll_down
 #
-#def_key "shift-down"
-#  select_item
-#  scroll_down
+def_key "shift-down"
+ select_item
+ scroll_down
 #
 #def_key "["
 #  scroll_up_album
@@ -222,8 +222,8 @@
 #def_key "X"
 #  set_crossfade
 #
-#def_key "u"
-#  update_database
+def_key "u"
+ update_database
 #
 #def_key "ctrl-s"
 #  sort_playlist
@@ -294,8 +294,8 @@
 #def_key "l"
 #  show_lyrics
 #
-#def_key "ctrl-v"
-#  select_range
+def_key "ctrl-v"
+ select_range
 #
 #def_key "v"
 #  reverse_selection
