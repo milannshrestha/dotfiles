@@ -64,7 +64,7 @@ bindkey -s "^g" "lc\n"
 source $ZSH/oh-my-zsh.sh
 
 ## Replace CAPS LOCK key with another CTRL
-setxkbmap -option ctrl:nocaps
+# setxkbmap -option ctrl:nocaps
 
 # Source config files
 for f in ~/.config/shellconfig/*; do source "$f"; done

@@ -86,7 +86,7 @@
 
     ### Text ###
 
-    font = Monospace 11
+    font = Operator Pro 11
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -236,9 +236,10 @@
     #              invoke it. If there are multiple and no default, open the context menu.
     # * close_current: Close current notification.
     # * close_all: Close all notifications.
-    mouse_left_click = close_current
-    mouse_middle_click = do_action
-    mouse_right_click = close_all
+    mouse_left_click = do_action
+    mouse_middle_click = close_all
+    mouse_right_click = close_current
+
 
 # Experimental features that may or may not work correctly. Do not expect them
 # to have a consistent behaviour across releases.
@@ -279,14 +280,14 @@
     foreground = "#888888"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
-    #icon = /path/to/icon
+    icon = /usr/share/icons/ubo-icons/32x32/apps/drakmenustyle.png
 
 [urgency_normal]
     background = "#1d2021"
     foreground = "#d5c4a1"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
-    #icon = /path/to/icon
+    icon = /usr/share/icons/ubo-icons/32x32/apps/drakmenustyle.png
 
 [urgency_critical]
     background = "#900000"
@@ -294,7 +295,7 @@
     frame_color = "#ff0000"
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
-    #icon = /path/to/icon
+    icon = /usr/share/icons/ubo-icons/32x32/status/important.png
 
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.
