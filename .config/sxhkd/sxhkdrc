@@ -10,8 +10,12 @@ super + Return
 alt + space
 	rofi -show drun
 
-ctrl + shift + r
+ctrl + alt + space
 	rofi -show run
+
+# Custom scripts enu to edit configs
+ctrl + alt + c
+	rofi_script_menu
 
 # make sxhkd reload its configuration files:
 super + Escape

@@ -63,7 +63,7 @@ font-3 = FontAwesome5Pro:pixelsize=10;2
 
 modules-left = bspwm xwindow
 modules-center = mpd
-modules-right = pacupdates alsa xbacklight memory cpu wlan battery temperature date
+modules-right = transmissionDL transmissionSeed transmissionIdle pacupdates alsa xbacklight memory cpu wlan battery temperature date
 
 tray-position = right
 tray-padding = 2
@@ -134,6 +134,28 @@ label-empty-padding = 2
 type = custom/script
 exec = pacman -Qu | wc -l
 format-prefix = " "
+format-underline = ${colors.red}
+interval = 120
+
+
+[module/transmissionDL]
+type = custom/script
+exec = transmission-remote -l | awk '/^\s+.+Downloading/' | wc -l
+format-prefix = "DL: "
+format-underline = ${colors.red}
+interval = 120
+
+[module/transmissionSeed]
+type = custom/script
+exec = transmission-remote -l | awk '/^\s+.+Seeding/' | wc -l
+format-prefix = "S: "
+format-underline = ${colors.red}
+interval = 120
+
+[module/transmissionIdle]
+type = custom/script
+exec = transmission-remote -l | awk '/^\s+.+Idle/' | wc -l
+format-prefix = "Idle: "
 format-underline = ${colors.red}
 interval = 120
 
