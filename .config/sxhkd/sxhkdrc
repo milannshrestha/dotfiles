@@ -154,3 +154,7 @@ XF86MonBrightnessUp
 
 XF86MonBrightnessDown
 	    xbacklight -dec 20
+
+# rofi menus
+ctrl + alt + b
+	bm-menu

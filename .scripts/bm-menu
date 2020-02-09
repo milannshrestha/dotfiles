@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+file=~/.cache/joncarr/bookmarks
+
+selected=$(awk -F'[/:]' '{print $1}' $file | rofi -dmenu -p "Bookmarks")
+[ -z $selected ] && exit
+
+$BROWSER $( awk -F'[:]' -v sel=$selected '$1==sel {print $2}' $file )
