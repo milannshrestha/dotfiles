@@ -44,7 +44,7 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 # Launch polybar
-$HOME/.scripts/launch_polybar.sh
+$HOME/.scripts/launch_polybar
 
 # launch MPD
 mpd

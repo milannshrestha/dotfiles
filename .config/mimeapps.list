@@ -1,0 +1,10 @@
+[Added Associations]
+x-scheme-handler/magnet=/usr/share/applications/torrent.desktop;
+application/x.bittorrent=/sr/share/applications/torrent.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=exo-mail-reader.desktop;
+application/x-bittorent=torrent.desktop
+application/x-bittorrent=/usr/share/applications/torrent.desktop
+application/bittorrent=torrent.desktop
+

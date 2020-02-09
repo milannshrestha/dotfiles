@@ -1,3 +1,5 @@
+#!/usr/bin/sh
+
  # Function: mpfree
  # Iterates over all the files in the root directory (and subdirectories)
  # and converts audio files with '.webm' extension to mp3 files
@@ -16,8 +18,8 @@
  #
  # Function: wacom_touch
  # Helper function to turn Wacom touch control on or off
- function wacom_touch "$command" {
-	xsetwacom --set $WACOM_TOUCH touch $command;
+ function wacom_touch {
+    xsetwacom --set $WACOM_TOUCH touch $1;
  }
 
  # Function: to_mp3
@@ -41,7 +43,7 @@ function lol_name {
     echo ""
 }
 
-# Funtion: lc
+# Function: lc
 # Changes directory when exiting lf
 lc () {
     tmp="$(mktemp)"
@@ -53,14 +55,13 @@ lc () {
     fi
 }
 
-# Funtion: ytpl (YouTube Play List)
+# Function: ytpl (YouTube Play List)
 # Uses youtube-dl to download a YouTube playlist to mp3
 function ytpl () {
     youtube-dl --yes-playlist -f bestaudio --add-metadata -x --audio-format mp3 $1;
 }
 
 
-cron-notify () {
-    sudo -u jec DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "$1" "$2"
-}
+
+
 

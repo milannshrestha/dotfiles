@@ -6,6 +6,10 @@
 super + Return
 	termite
 
+# Run exiting actions
+ctrl + alt + x
+	exit-action
+
 # program launcher
 alt + space
 	rofi -show drun

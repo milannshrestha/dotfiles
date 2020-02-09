@@ -3,7 +3,7 @@
 SEARCH_URL="https://www.google.com/search?q="
 VIDEO_EXT='(avi%7Cmkv%7Cmov%7Cmp4%7Cmpg%7Cwmv)'
 IMAGE_EXT='(bmp%7Cgif%7Cjpg%7Cjpeg%7Cpng%7Cpsd%7Ctif%7Ctiff)'
-AUDIO_EXT='(ac3%7Cflac%7Cm4a%7Cmp3%7Cogg%7Cwav%7Cwma)'
+AUDIO_EXT='(ac3%7Cflac%7Cm4a%7Cmp3%7Cogg%7Cwav%7Cwma%7Caiff)'
 DOCUMENT_EXT='(CBZ%7CCBR%7CCHM%7CDOC%7CDOCX%7CEPUB%7CMOBI%7CODT%7CPDF%7CRTF%7Ctxt)'
 EXECUTABLE_EXT='(exe%7Capk)'
 ARCHIVE_EXT='(iso%7Crar%7Ctar%7Czip%7C7z)'

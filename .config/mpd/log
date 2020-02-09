@@ -1,0 +1,258 @@
+Jan 25 09:17 : config: option 'device' on line 21 was not recognized
+Jan 25 09:17 : client: [0] opened from 127.0.0.1:35762
+Jan 25 09:18 : client: [1] opened from 127.0.0.1:35764
+Jan 25 09:18 : client: [1] closed
+Jan 25 09:22 : client: [0] closed
+Jan 25 09:23 : config: option 'device' on line 21 was not recognized
+Jan 25 09:23 : client: [0] opened from 127.0.0.1:58290
+Jan 25 09:24 : client: [0] closed
+Jan 25 09:25 : config: option 'device' on line 21 was not recognized
+Jan 25 09:25 : client: [0] opened from 127.0.0.1:37850
+Jan 25 13:34 : config: option 'device' on line 21 was not recognized
+Jan 25 13:34 : client: [0] opened from 127.0.0.1:55866
+Jan 27 04:52 : client: [0] closed
+Jan 27 04:52 : client: [1] opened from 127.0.0.1:33924
+Jan 27 12:21 : client: [1] closed
+Jan 27 12:21 : client: [2] opened from 127.0.0.1:35734
+Jan 27 12:25 : client: [2] closed
+Jan 27 12:26 : config: option 'device' on line 21 was not recognized
+Jan 27 12:26 : client: [0] opened from 127.0.0.1:58512
+Jan 27 21:54 : client: [1] opened from 127.0.0.1:33276
+Jan 27 21:54 : client: [1] closed
+Jan 27 21:54 : client: [2] opened from 127.0.0.1:33278
+Jan 27 21:54 : client: [2] closed
+Jan 27 21:54 : client: [3] opened from 127.0.0.1:33280
+Jan 27 21:54 : client: [3] closed
+Jan 27 21:54 : client: [4] opened from 127.0.0.1:33282
+Jan 27 21:54 : client: [4] closed
+Jan 27 21:54 : client: [5] opened from 127.0.0.1:33284
+Jan 27 21:54 : client: [5] closed
+Jan 27 21:54 : client: [6] opened from 127.0.0.1:33286
+Jan 27 21:54 : client: [6] closed
+Jan 28 17:46 : client: [0] closed
+Jan 28 17:47 : client: [7] opened from 127.0.0.1:34752
+Jan 30 16:30 : client: [7] closed
+Jan 30 16:30 : client: [8] opened from 127.0.0.1:41672
+Jan 31 08:38 : config: option 'device' on line 21 was not recognized
+Jan 31 08:38 : client: [0] opened from 127.0.0.1:43346
+Jan 31 21:54 : config: option 'device' on line 21 was not recognized
+Jan 31 21:54 : client: [0] opened from 127.0.0.1:42378
+Feb 02 05:09 : client: [1] opened from 127.0.0.1:48924
+Feb 02 05:09 : client: [1] closed
+Feb 03 12:37 : config: option 'device' on line 21 was not recognized
+Feb 03 12:37 : client: [0] opened from 127.0.0.1:43048
+Feb 06 12:05 : client: [0] closed
+Feb 06 12:06 : config: option 'device' on line 21 was not recognized
+Feb 06 12:06 : client: [0] opened from 127.0.0.1:43532
+Feb 07 21:03 : client: [0] closed
+Feb 07 21:03 : client: [1] opened from 127.0.0.1:56302
+Feb 07 21:04 : client: [1] closed
+Feb 07 21:04 : client: [2] opened from 127.0.0.1:56304
+Feb 07 21:14 : client: [2] closed
+Feb 07 21:15 : client: [3] opened from 127.0.0.1:56476
+Feb 07 21:21 : client: [3] closed
+Feb 07 21:21 : client: [4] opened from 127.0.0.1:56482
+Feb 07 21:31 : client: [4] closed
+Feb 07 21:31 : client: [5] opened from 127.0.0.1:56488
+Feb 07 21:31 : client: [5] closed
+Feb 07 21:33 : config: option 'device' on line 21 was not recognized
+Feb 07 21:33 : client: [0] opened from 127.0.0.1:58966
+Feb 07 21:49 : client: [0] closed
+Feb 07 21:49 : client: [1] opened from 127.0.0.1:59246
+Feb 08 12:16 : client: [1] closed
+Feb 08 12:16 : client: [2] opened from 127.0.0.1:48076
+Feb 08 12:19 : client: [2] closed
+Feb 08 12:19 : client: [3] opened from 127.0.0.1:48080
+Feb 08 12:21 : client: [3] closed
+Feb 08 12:21 : client: [4] opened from 127.0.0.1:48082
+Feb 08 12:28 : client: [4] closed
+Feb 08 12:29 : client: [5] opened from 127.0.0.1:48208
+Feb 08 14:45 : client: [5] closed
+Feb 08 14:45 : client: [6] opened from 127.0.0.1:49696
+Feb 08 15:51 : client: [7] opened from 127.0.0.1:50812
+Feb 08 15:51 : client: [7] closed
+Feb 08 15:51 : client: [6] closed
+Feb 08 15:52 : client: [8] opened from 127.0.0.1:50822
+Feb 08 15:52 : client: [8] closed
+Feb 08 15:52 : client: [9] opened from 127.0.0.1:50826
+Feb 08 15:54 : client: [9] closed
+Feb 08 15:54 : client: [10] opened from 127.0.0.1:50832
+Feb 08 15:54 : client: [10] closed
+Feb 08 15:54 : client: [11] opened from 127.0.0.1:50838
+Feb 08 15:55 : client: [11] closed
+Feb 08 15:56 : client: [12] opened from 127.0.0.1:50848
+Feb 08 15:56 : client: [12] closed
+Feb 08 16:01 : client: [13] opened from 127.0.0.1:50886
+Feb 08 16:01 : client: [13] closed
+Feb 08 16:02 : client: [14] opened from 127.0.0.1:50894
+Feb 08 16:02 : client: [14] closed
+Feb 08 16:05 : client: [15] opened from 127.0.0.1:50928
+Feb 08 16:06 : client: [15] closed
+Feb 08 16:06 : client: [16] opened from 127.0.0.1:50930
+Feb 08 16:07 : client: [16] closed
+Feb 08 16:07 : client: [17] opened from 127.0.0.1:50982
+Feb 08 16:08 : client: [18] opened from 127.0.0.1:50998
+Feb 08 16:08 : client: [18] closed
+Feb 08 16:08 : client: [19] opened from 127.0.0.1:51000
+Feb 08 16:08 : client: [19] closed
+Feb 08 16:11 : player: played "Eminem - Music to be Murdered By/Eminem - Premonition (Intro).mp3"
+Feb 08 16:20 : client: [20] opened from 127.0.0.1:51212
+Feb 08 16:20 : client: [21] opened from 127.0.0.1:51214
+Feb 08 16:20 : client: [21] closed
+Feb 08 16:21 : client: [20] closed
+Feb 08 16:21 : client: [22] opened from 127.0.0.1:51230
+Feb 08 16:21 : client: [22] closed
+Feb 08 16:22 : client: [23] opened from 127.0.0.1:51236
+Feb 08 16:22 : client: [23] closed
+Feb 08 16:22 : client: [24] opened from 127.0.0.1:51240
+Feb 08 16:24 : client: [24] closed
+Feb 08 16:24 : player: played "Eminem - Music to be Murdered By/Eminem - Unaccommodating (ft. Young M.A).mp3"
+Feb 08 16:28 : player: played "Eminem - Music to be Murdered By/Eminem - You Gon’ Learn (ft. Royce da 5'9'' & White Gold).mp3"
+Feb 08 16:28 : player: played "Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3"
+Feb 08 16:31 : player: played "Eminem - Music to be Murdered By/Eminem - Those Kinda Nights (ft. Ed Sheeran).mp3"
+Feb 08 16:34 : client: [25] opened from 127.0.0.1:51410
+Feb 08 16:34 : player: played "Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3"
+Feb 08 16:34 : client: [25] closed
+Feb 08 16:34 : client: [26] opened from 127.0.0.1:51412
+Feb 08 16:34 : client: [26] closed
+Feb 08 16:35 : config: option 'device' on line 21 was not recognized
+Feb 08 16:35 : client: [0] opened from 127.0.0.1:51418
+Feb 08 16:35 : client: [1] opened from 127.0.0.1:51432
+Feb 08 16:36 : client: [1] closed
+Feb 08 16:36 : client: [2] opened from 127.0.0.1:51458
+Feb 08 16:36 : client: [2] closed
+Feb 08 16:36 : client: [3] opened from 127.0.0.1:51460
+Feb 08 16:36 : client: [3] closed
+Feb 08 16:36 : client: [4] opened from 127.0.0.1:51462
+Feb 08 16:36 : client: [4] closed
+Feb 08 16:36 : player: played "Eminem - Music to be Murdered By/Eminem - Alfred (Interlude).mp3"
+Feb 08 16:37 : client: [5] opened from 127.0.0.1:51592
+Feb 08 16:37 : client: [5] closed
+Feb 08 16:39 : client: [0] closed
+Feb 08 16:39 : client: [6] opened from 127.0.0.1:51696
+Feb 08 16:39 : client: [7] opened from 127.0.0.1:51710
+Feb 08 16:39 : player: played "Eminem - Music to be Murdered By/Eminem - In Too Deep.mp3"
+Feb 08 16:39 : client: [7] closed
+Feb 08 16:41 : client: [6] closed
+Feb 08 16:41 : client: [8] opened from 127.0.0.1:51760
+Feb 08 16:41 : client: [9] opened from 127.0.0.1:51786
+Feb 08 16:42 : client: [9] closed
+Feb 08 16:42 : client: [10] opened from 127.0.0.1:51800
+Feb 08 16:42 : client: [10] closed
+Feb 08 16:42 : client: [11] opened from 127.0.0.1:51814
+Feb 08 16:42 : client: [11] closed
+Feb 08 16:42 : client: [12] opened from 127.0.0.1:51816
+Feb 08 16:42 : client: [12] closed
+Feb 08 16:42 : client: [13] opened from 127.0.0.1:51818
+Feb 08 16:42 : client: [13] closed
+Feb 08 16:42 : client: [14] opened from 127.0.0.1:51820
+Feb 08 16:42 : client: [14] closed
+Feb 08 16:42 : client: [15] opened from 127.0.0.1:51822
+Feb 08 16:42 : client: [15] closed
+Feb 08 16:42 : client: [16] opened from 127.0.0.1:51824
+Feb 08 16:42 : client: [16] closed
+Feb 08 16:42 : client: [17] opened from 127.0.0.1:51826
+Feb 08 16:42 : client: [17] closed
+Feb 08 16:42 : client: [18] opened from 127.0.0.1:51966
+Feb 08 16:42 : client: [18] closed
+Feb 08 16:45 : player: played "Eminem - Music to be Murdered By/Eminem - Godzilla (ft. Juice WRLD).mp3"
+Feb 08 16:49 : client: [19] opened from 127.0.0.1:52288
+Feb 08 16:49 : player: played "Eminem - Music to be Murdered By/Eminem - Darkness.mp3"
+Feb 08 16:49 : client: [19] closed
+Feb 08 16:49 : client: [20] opened from 127.0.0.1:52290
+Feb 08 16:49 : client: [20] closed
+Feb 08 16:49 : client: [8] closed
+Feb 08 16:49 : client: [21] opened from 127.0.0.1:52296
+Feb 08 16:49 : client: [22] opened from 127.0.0.1:52310
+Feb 08 16:50 : client: [22] closed
+Feb 08 16:50 : client: [23] opened from 127.0.0.1:52324
+Feb 08 16:50 : client: [23] closed
+Feb 08 16:53 : client: [24] opened from 127.0.0.1:52426
+Feb 08 16:53 : player: played "Mac Miller - Cirlces/Mac Miller - Good News.mp3"
+Feb 08 16:53 : client: [24] closed
+Feb 08 16:53 : client: [25] opened from 127.0.0.1:52428
+Feb 08 16:53 : client: [25] closed
+Feb 08 17:01 : client: [0] opened from 127.0.0.1:53426
+Feb 08 17:01 : client: [1] opened from 127.0.0.1:53440
+Feb 08 17:02 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 08 17:02 : client: [1] closed
+Feb 08 17:02 : client: [2] opened from 127.0.0.1:53478
+Feb 08 17:02 : player: played "Mac Miller - Cirlces/Mac Miller - Good News.mp3"
+Feb 08 17:02 : client: [2] closed
+Feb 08 17:02 : client: [3] opened from 127.0.0.1:53480
+Feb 08 17:02 : client: [3] closed
+Feb 08 17:03 : client: [0] closed
+Feb 08 17:03 : client: [4] opened from 127.0.0.1:53496
+Feb 08 17:03 : client: [5] opened from 127.0.0.1:53510
+Feb 08 17:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 08 17:03 : client: [5] closed
+Feb 08 17:03 : client: [6] opened from 127.0.0.1:53524
+Feb 08 17:03 : client: [6] closed
+Feb 08 17:09 : client: [7] opened from 127.0.0.1:53744
+Feb 08 17:09 : player: played "Mac Miller - Swimming/Self Care.mp3"
+Feb 08 17:09 : client: [7] closed
+Feb 08 17:09 : client: [8] opened from 127.0.0.1:53746
+Feb 08 17:09 : client: [8] closed
+Feb 08 17:26 : client: [4] closed
+Feb 08 17:26 : client: [9] opened from 127.0.0.1:54594
+Feb 08 17:27 : zeroconf: No global port, disabling zeroconf
+Feb 08 17:27 : client: [0] opened from 127.0.0.1:37452
+Feb 08 17:41 : client: [0] closed
+Feb 08 17:41 : client: [1] opened from 127.0.0.1:38036
+Feb 08 17:57 : client: [1] closed
+Feb 08 17:57 : zeroconf: No global port, disabling zeroconf
+Feb 08 17:58 : client: [0] opened from 127.0.0.1:49178
+Feb 08 21:04 : client: [0] closed
+Feb 08 21:05 : zeroconf: No global port, disabling zeroconf
+Feb 08 21:05 : client: [0] opened from 127.0.0.1:41682
+Feb 09 02:22 : client: [0] closed
+Feb 09 02:22 : client: [1] opened from 127.0.0.1:35184
+Feb 09 05:06 : zeroconf: No global port, disabling zeroconf
+Feb 09 05:06 : client: [0] opened from 127.0.0.1:59404
+Feb 09 05:21 : client: [0] closed
+Feb 09 05:21 : zeroconf: No global port, disabling zeroconf
+Feb 09 05:23 : client: [0] opened from 127.0.0.1:46954
+Feb 09 05:48 : client: [0] closed
+Feb 09 05:49 : client: [1] opened from 127.0.0.1:48148
+Feb 09 05:50 : client: [1] closed
+Feb 09 05:51 : client: [2] opened from 127.0.0.1:48222
+Feb 09 05:57 : zeroconf: No global port, disabling zeroconf
+Feb 09 05:57 : client: [0] opened from 127.0.0.1:48680
+Feb 09 06:07 : zeroconf: No global port, disabling zeroconf
+Feb 09 06:07 : client: [0] opened from 127.0.0.1:49206
+Feb 09 06:37 : client: [0] closed
+Feb 09 06:38 : zeroconf: No global port, disabling zeroconf
+Feb 09 06:38 : client: [0] opened from 127.0.0.1:52006
+Feb 09 06:50 : client: [0] closed
+Feb 09 06:50 : client: [1] opened from 127.0.0.1:53914
+Feb 09 07:28 : client: [1] closed
+Feb 09 07:29 : zeroconf: No global port, disabling zeroconf
+Feb 09 07:29 : client: [0] opened from 127.0.0.1:56050
+Feb 09 07:31 : client: [0] closed
+Feb 09 07:32 : client: [1] opened from 127.0.0.1:56342
+Feb 09 07:33 : zeroconf: No global port, disabling zeroconf
+Feb 09 07:33 : client: [0] opened from 127.0.0.1:56476
+Feb 09 07:34 : zeroconf: No global port, disabling zeroconf
+Feb 09 07:34 : client: [0] opened from 127.0.0.1:56490
+Feb 09 07:55 : zeroconf: No global port, disabling zeroconf
+Feb 09 07:55 : client: [0] opened from 127.0.0.1:59940
+Feb 09 08:20 : zeroconf: No global port, disabling zeroconf
+Feb 09 08:20 : client: [0] opened from 127.0.0.1:36060
+Feb 09 14:10 : client: [1] opened from 127.0.0.1:59952
+Feb 09 14:13 : player: played "Mac Miller - Cirlces/Mac Miller - Circles.mp3"
+Feb 09 14:13 : client: [2] opened from 127.0.0.1:60394
+Feb 09 14:13 : client: [2] closed
+Feb 09 14:13 : client: [3] opened from 127.0.0.1:60488
+Feb 09 14:13 : client: [3] closed
+Feb 09 17:16 : client: [4] opened from 127.0.0.1:60326
+Feb 09 17:16 : client: [4] closed
+Feb 09 17:16 : client: [5] opened from 127.0.0.1:60340
+Feb 09 17:16 : client: [5] closed
+Feb 09 17:18 : player: played "Mac Miller - Cirlces/Mac Miller - Circles.mp3"
+Feb 09 17:19 : client: [6] opened from 127.0.0.1:60896
+Feb 09 17:20 : client: [7] opened from 127.0.0.1:60926
+Feb 09 17:20 : client: [7] closed
+Feb 09 17:20 : client: [8] opened from 127.0.0.1:60948
+Feb 09 17:20 : client: [8] closed
+Feb 09 17:20 : client: [6] closed
+Feb 09 17:22 : player: played "Mac Miller - Cirlces/Mac Miller - Circles.mp3"
