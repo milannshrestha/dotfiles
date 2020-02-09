@@ -143,21 +143,21 @@ type = custom/script
 exec = transmission-remote -l | awk '/^\s+.+Downloading/' | wc -l
 format-prefix = "DL: "
 format-underline = ${colors.red}
-interval = 120
+interval = 20
 
 [module/transmissionSeed]
 type = custom/script
 exec = transmission-remote -l | awk '/^\s+.+Seeding/' | wc -l
 format-prefix = "S: "
 format-underline = ${colors.red}
-interval = 120
+interval = 20
 
 [module/transmissionIdle]
 type = custom/script
 exec = transmission-remote -l | awk '/^\s+.+Idle/' | wc -l
 format-prefix = "Idle: "
 format-underline = ${colors.red}
-interval = 120
+interval = 20
 
 [module/mpd]
 type = internal/mpd

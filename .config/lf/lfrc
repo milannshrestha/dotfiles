@@ -62,3 +62,7 @@ map bg setwallpaper
 
 # Navigation Key Bindings
 map gc cd ~/.config
+map gs cd ~/Samples
+map gm cd ~/Music
+map gp cd ~/Pictures
+map gdl cd ~/Downloads

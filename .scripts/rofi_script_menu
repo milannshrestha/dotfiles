@@ -1,0 +1,15 @@
+#!/bin/sh
+
+selected=$(ls "$HOME/.config" | rofi -p "Configs" -dmenu)
+[[ -z $selected ]] && exit
+
+if [[ -d $selected ]]; then
+    notify-send "we are in a directory"
+    files=$(ls $HOME/.config/$selected)
+    termite --exec="vim $files";
+else
+    termite --exec="vim $HOME/.config/$selected"
+fi
+
+# [[ -d $selected ]] && vim $(ls $HOME/.config/$selected)
+

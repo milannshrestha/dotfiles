@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+SAMPLE_DIR=$HOME/Samples
+
+for file in $SAMPLE_DIR/**/*
+do
+
+done
+

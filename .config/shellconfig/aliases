@@ -46,7 +46,6 @@ alias grm="git remote"
 ####################################################################
 # Redshift
 ####################################################################
-
 alias day="redshift -P -O 3650"
 alias night="redshift -P -O 2650"
 
@@ -54,12 +53,22 @@ alias night="redshift -P -O 2650"
 ####################################################################
 # Dunst
 ####################################################################
-
 alias notify-send="sudo -u jec DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send"
-
 
 ####################################################################
 # Transmission
 ####################################################################
 alias trc=transmission-remote-cli
 alias trl="transmission-remote -l"
+
+####################################################################
+# od-search Terminal
+####################################################################
+alias ods="od-search"
+alias odsv="od-search video"
+alias odsi="od-search image"
+alias odsa="od-search audio"
+alias odsd="od-search document"
+alias odse="od-search executable"
+alias odsr="od-search archive"
+

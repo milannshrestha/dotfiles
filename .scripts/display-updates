@@ -1,6 +1,9 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 if [ $(pacman -Qu | wc -l ) > 0 ]; then
-    pacman -Qu | wc -l;
-    notify-send "$(pacman -Qu | wc -l) updates are ready to be installed."
+    if [ $(pacman -Qu | wc -l ) ==  1 ]; then
+        sudo -u jec DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "$(pacman -Qu | wc -l) update is ready to be installed."
+    else
+        sudo -u jec DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "$(pacman -Qu | wc -l) updates are ready to be installed."
+    fi
 fi

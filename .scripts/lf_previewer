@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/sh
 LINES=30
 case "$1" in
     # *.png|*.jpg|*.jpeg|*.gif|*.mkv|*.mp4) sxiv -e $(wmctrl -lx | awk '/termite.Termite/ {print $1}') -s f "$1";;

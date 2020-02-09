@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm *.aux *.fdb* *.fls *.log *.pdf *.synctex*

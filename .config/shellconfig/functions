@@ -58,3 +58,9 @@ lc () {
 function ytpl () {
     youtube-dl --yes-playlist -f bestaudio --add-metadata -x --audio-format mp3 $1;
 }
+
+
+cron-notify () {
+    sudo -u jec DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "$1" "$2"
+}
+
